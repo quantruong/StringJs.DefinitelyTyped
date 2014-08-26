@@ -1,4 +1,4 @@
 StringJs.DefinitelyTyped
 ========================
 
-Define TypeScript for StringJs
+Define TypeScript for StringJs (http://stringjs.com)
