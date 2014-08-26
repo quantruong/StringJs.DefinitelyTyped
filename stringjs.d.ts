@@ -1,7 +1,7 @@
 ﻿// Type definitions for StringJs 1.9.1
 // Project: https://github.com/jprichardson/string.js
 // Definitions by: Quan Truong <https://github.com/quantruong/>
-// Definitions: https://github.com/borisyankov/DefinitelyTyped 
+// Definitions: https://github.com/quantruong/StringJs.DefinitelyTyped
 
 interface StringJsResult {
     s: string;
